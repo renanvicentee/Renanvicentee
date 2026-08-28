@@ -1,37 +1,33 @@
-# 👩🏻‍💻 Renan Vicente Timozzi
+# 👨🏻‍💻 Renan Vicente Timozzi
 
 **`Analista de Dados`**
 
-Me chamo Renan Timozzi, tenho 24 anos e sou estudante de Sistemas de Informação e possuo experiência
-profissional com RPA, automação de processos e dados.
+Sou formado em **Sistemas de Informação** e possuo experiência profissional
+com RPA, automação de processos e dados.
 
-Atualmente, estou direcionando minha carreira para a área de Dados,
-com foco em Power BI, Python, SQL e Bancos de Dados, além de ampliar
-meus conhecimentos em Inteligência Artificial e Machine Learning.
+Atualmente, direciono minha carreira para a área de **Dados**, com foco em
+**Power BI, Python, SQL, Bancos de Dados e AWS**.
 
-Tenho interesse em transformar dados em informações relevantes,
-automatizar processos e desenvolver soluções que gerem valor para
-negócios.
+Tenho experiência no desenvolvimento de projetos envolvendo análise de dados,
+ETL, visualização de dados e soluções em nuvem utilizando serviços como
+**Amazon S3, AWS Glue e Amazon Athena**.
+
+Tenho interesse em transformar dados em informações relevantes, automatizar
+processos e desenvolver soluções que gerem valor para negócios.
 
 
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" title="Amazon Web Services"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" width="40" height="40" title="Amazon S3"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Analytics/Glue.png" width="40" height="40" title="AWS Glue"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Analytics/Athena.png" width="40" height="40" title="Amazon Athena"/>
 </p>
 
 
