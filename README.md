@@ -91,4 +91,8 @@ de risco e investigação de operações.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="./docs/Curriculo_Renan_Vicente_Timozzi.pdf">
+  <img src="https://img.shields.io/badge/Curr%C3%ADculo-Baixar%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 </p>
