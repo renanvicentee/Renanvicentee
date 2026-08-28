@@ -16,7 +16,6 @@ Tenho interesse em transformar dados em informações relevantes, automatizar
 processos e desenvolver soluções que gerem valor para negócios.
 
 
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
@@ -30,13 +29,7 @@ processos e desenvolver soluções que gerem valor para negócios.
 <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Analytics/Athena.png" width="40" height="40" title="Amazon Athena"/>
 </p>
 
-
-
 ---
-
-
-
-
 
 ### 📊 Dados
 
@@ -45,7 +38,6 @@ processos e desenvolver soluções que gerem valor para negócios.
 - Power Query
 - Excel
 - Modelagem de Dados
-
 
 ### 🤖 Interesse atual
 
@@ -59,24 +51,32 @@ processos e desenvolver soluções que gerem valor para negócios.
 
 ### 📈 Dashboard de Análise Comercial — Power BI
 
-Dashboard desenvolvido para análise de desempenho comercial,
-envolvendo vendas, clientes, produtos, vendedores e filiais.
+Dashboard interativo para análise de vendas, clientes, produtos, vendedores,
+margens e desempenho comercial.
 
-**Principais análises:**
+`Power BI` `DAX` `Power Query` `Excel`
 
-- Faturamento e receita líquida
-- Margem e rentabilidade
-- Devoluções
-- Análise de produtos
-- Análise de clientes
-- Performance comercial
+🔗 [Ver projeto](https://github.com/renanvicentee/PowerBI-AnaliseComercial-Vendedora)
 
 
-**Tecnologias:**
+### 🐍 Análise de Dados e ETL — Python
 
-`Power BI` `DAX` `Power Query` `Excel` `Modelagem de Dados`
+Projeto de análise de dados envolvendo tratamento, transformação,
+visualização e integração com banco de dados.
 
-🔗 [Ver projeto](https://app.powerbi.com/links/KCtAZIEgBI?ctid=db63730b-8f3b-41a1-aad1-cfe7379dea09&pbi_source=linkShare)
+`Python` `Pandas` `Matplotlib` `MySQL` `SQL`
+
+🔗 [Ver projeto](https://github.com/renanvicentee/Projeto-Pandas-ETL-Graficos)
+
+
+### ☁️ Compliance Risk — AWS
+
+Pipeline de dados em nuvem para análise de transações, criação de indicadores
+de risco e investigação de operações.
+
+`AWS S3` `AWS Glue` `Amazon Athena` `SQL` `Power BI`
+
+🔗 [Ver projeto](https://github.com/renanvicentee/AWS-Compliance-RiskAnalysis)
 
 
 ## 📫 Contato
@@ -90,8 +90,5 @@ envolvendo vendas, clientes, produtos, vendedores e filiais.
 <a href="https://github.com/renanvicentee">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
 
 </p>
