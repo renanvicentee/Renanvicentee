@@ -3,7 +3,7 @@
 **`Analista de Dados`**
 
 Sou formado em **Sistemas de Informação** e possuo experiência profissional
-com RPA, automação de processos e dados.
+com automação de processos e dados.
 
 Atualmente, direciono minha carreira para a área de **Dados**, com foco em
 **Power BI, Python, SQL, Bancos de Dados e AWS**.
