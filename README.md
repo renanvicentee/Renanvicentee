@@ -49,14 +49,15 @@ processos e desenvolver soluções que gerem valor para negócios.
 
 ## 📊 Projetos
 
-### 📈 Dashboard de Análise Comercial — Power BI
+### 🏗️ Supply Chain Analytics Lakehouse
 
-Dashboard interativo para análise de vendas, clientes, produtos, vendedores,
-margens e desempenho comercial.
+Projeto end-to-end de Engenharia e Análise de Dados para um cenário de Logística e Supply Chain, processando aproximadamente **22 milhões de registros**.
 
-`Power BI` `DAX` `Power Query` `Excel`
+Arquitetura Lakehouse com ingestão, tratamento e modelagem em camadas **Bronze, Silver e Gold**, utilizando Databricks, Apache Spark, PySpark e Delta Lake, com consumo analítico em Databricks SQL e Power BI.
 
-🔗 [Ver projeto](https://github.com/renanvicentee/PowerBI-AnaliseComercial-Vendedora)
+`Databricks` `Apache Spark` `PySpark` `Delta Lake` `SQL` `Power BI`
+
+🔗 [Ver projeto](https://github.com/renanvicentee/Supply-Chain-Analytics)
 
 
 ### 🐍 Análise de Dados e ETL — Python
