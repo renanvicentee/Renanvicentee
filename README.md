@@ -2,18 +2,11 @@
 
 **`Analista de Dados`**
 
-Sou formado em **Sistemas de Informação** e possuo experiência profissional
-com automação de processos e dados.
+Profissional formado em **Sistemas de Informação**, apaixonado por tecnologia e dados, com foco em aprendizado contínuo e evolução profissional.
 
-Atualmente, direciono minha carreira para a área de **Dados**, com foco em
-**Power BI, Python, SQL, Bancos de Dados e AWS**.
+Possuo experiência prática com **SQL, Power BI, análise e tratamento de dados**, além de atuação com **Python, AWS, Databricks, PySpark e automação de processos**. Também desenvolvo projetos envolvendo **ETL, dashboards, modelagem de dados e soluções em cloud**.
 
-Tenho experiência no desenvolvimento de projetos envolvendo análise de dados,
-ETL, visualização de dados e soluções em nuvem utilizando serviços como
-**Amazon S3, AWS Glue e Amazon Athena**.
-
-Tenho interesse em transformar dados em informações relevantes, automatizar
-processos e desenvolver soluções que gerem valor para negócios.
+Sou proativo, analítico e colaborativo, valorizando comunicação clara e trabalho em equipe. Busco oportunidades nas áreas de **Dados e Analytics**, com interesse em aprofundar minha atuação em **análise e engenharia de dados**.
 
 
 ## 🛠️ Tecnologias e Ferramentas
